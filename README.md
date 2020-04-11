@@ -9,3 +9,7 @@
 - Markdown language for README files
 - JavaScript ES6+ features
 - Using arrays
+
+![](images/octocat.jpeg)
+
+https://pages.uoregon.edu/enguyen6/repos/281/
